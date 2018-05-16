@@ -1,10 +1,10 @@
-# Chemistry Web App
+# Chemistry Desktop App
 
-## generation of iodinated lead (아이오딘화 납 생성)
+## generation of iodinated lead (아이오딘화 납 생성 모형)
 
 ![screenshot 1](screenshots/screenshot_1.png)
 
-말로만 Web App이지 사실 (적어도 지금은) 저 스크린샷이 다입니다. 진짜 다예요.
+말로만 Desktop App이지 사실 (적어도 지금은) 저 스크린샷이 다입니다. 진짜 다예요(그냥 저거예요).
 
 각각의 오브젝트는 `Microsoft PowerPoint`로 제작하였고, `Adobe Photoshop`과 `Zeplin`을 사용해서 Layout을 설계했습니다.
 
