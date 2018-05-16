@@ -1,0 +1,165 @@
+@import url(http://cdn.jsdelivr.net/font-nanum/1.0/nanumbarungothic/nanumbarungothic.css);
+body {
+    background-color: #191a1a;
+    z-index: -2;
+}
+.card-box {
+    background-color: white;
+    position: fixed;
+    left: 8px;
+    height: 384px;
+    width: 663px;
+    z-index: -1;
+}
+.mol1 {
+    position: fixed;
+    top: 29px;
+    left: 34.5px;
+    width: 162.5px;
+    height: 71px;
+    mix-blend-mode: undefined;
+}
+.iodine {
+    position: fixed;
+    top: 85px;
+    left: 19px;
+    height: 28px;
+    mix-blend-mode: undefined;
+    font-family: NanumBarunGothic;
+    font-size: 30px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7f7f7f;
+}
+.plus {
+    position: fixed;
+    top: 46px;
+    left: 228.5px;
+    width: 37px;
+    height: 37px;
+    mix-blend-mode: undefined;
+}
+.mol2 {
+    position: fixed;
+    top: 46px;
+    left: 297px;
+    width: 42.5px;
+    height: 42.5px;
+    mix-blend-mode: undefined;
+}
+.lead {
+    position: fixed;
+    top: 85px;
+    left: 277.5;
+    height: 28px;
+    mix-blend-mode: undefined;
+    font-family: NanumBarunGothic;
+    font-size: 30px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7f7f7f;
+}
+.arrow {
+    position: fixed;
+    top: 60.5px;
+    left: 371px;
+    width: 75px;
+    height: 22.5px;
+    mix-blend-mode: undefined;
+}
+.mol3 {
+    position: fixed;
+    top: 29px;
+    left: 474px;
+    width: 184px;
+    height: 71px;
+    mix-blend-mode: undefined;
+}
+.iodinatedlead {
+    position: fixed;
+    top: 85px;
+    left: 483px;
+    height: 28px;
+    mix-blend-mode: undefined;
+    font-family: NanumBarunGothic;
+    font-size: 30px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #7f7f7f;
+}
+.sub-text {
+    position: fixed;
+    top: 272.5px;
+    left: 18px;
+    height: 40px;
+    mix-blend-mode: undefined;
+    font-family: NanumBarunGothic;
+    font-size: 15px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #191a1a;
+}
+.title-text {
+    position: fixed;
+    top: 281.5px;
+    left: 375.5px;
+    height: 28.5px;
+    mix-blend-mode: undefined;
+    font-family: NanumBarunGothic;
+    font-size: 30px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5db5a4;
+}
+.main-text {
+    position: fixed;
+    top: 325.5px;
+    left: 375.5px;
+    height: 40px;
+    mix-blend-mode: undefined;
+    font-family: NanumBarunGothic;
+    font-size: 15px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: right;
+    color: #003333;
+}
+.background {
+    position: fixed;
+    top: 164.5px;
+    left: 19.5px;
+    width: 638.5px;
+    height: 96.5px;
+    mix-blend-mode: undefined;
+    z-index: 0;
+}
+.formula {
+    position: fixed;
+    top: 168px;
+    left: 150px;
+    z-index: 1;
+    height: 96.5px;
+}

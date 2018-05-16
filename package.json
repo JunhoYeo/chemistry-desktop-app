@@ -1,0 +1,15 @@
+{
+  "name": "chemistry-web-design",
+  "version": "1.0.0",
+  "description": "Web design about generation of iodinated lead",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "web-design",
+    "chemistry"
+  ],
+  "author": "JunhoYeo",
+  "license": "MIT"
+}
